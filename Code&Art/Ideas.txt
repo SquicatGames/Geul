@@ -1,0 +1,7 @@
+Key Idea: Items are glued to the floor, and gravity acts backwards (which is a cliché) on everything except the player. Name: G E U L which means GLUE with reverse gravity, also seagull in Dutch.
+2d platformer with objects flying into space
+Player tasks: everyday tasks like "go to the store"
+Complications:
+ - target objects for completing the task may disappear
+ - the interval between the beginning of the unsticking of the object and the escape into space is reduced as it passes
+ - platformer has map rotation zones - lanes, a large number of which complicates orientation in a virtual city
